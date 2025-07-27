@@ -1,0 +1,3 @@
+[submodule "vendor/gbmonctl"]
+	path = vendor/gbmonctl
+	url = https://github.com/leovanalphen/gbmonctl
